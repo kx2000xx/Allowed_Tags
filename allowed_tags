@@ -4,5 +4,6 @@
 "additional_types" : ["EXTENDED","REPACK", "PROPER", "RERIP", "COMPLETE","DUAL", "AUDIO", "Subbed", "DIRECTORS", "CUT", "DC", "DV", "DolbyVision", "HDR", "HDR10", "PLUS", "UNRATED", "LIMITED", "REMUX", "Season", "Pack", "MultiSubs", "ArSub", "FanSub", "TeamSub","HardSub", "SoftSub", "REMASTERED", "Reducted", "Sub", "Subs", "Dub", "Dubs", "3D", "Part", "One", "Two", "Three", "Four", "MultiDubs", "Arabic", "ArSubs", "MultiAudios", "Upscaled", "Upscale", "Regraded"],
 "codec_types" : ["x264", "x265", "XviD", "DivX", "AVC", "AV1", "MPEG"],
 "audio_formats" : ["AAC", "AC3", "DTS", "FLAC", "MP3", "EAC3", "EAC", "Opus", "DD", "DDP", "PCM", "MPEG"],
-"allowed_always_tags" : ["EXTENDED","REPACK", "PROPER", "RERIP", "COMPLETE","DUAL", "AUDIO", "Subbed", "DIRECTORS", "CUT", "DC", "DV", "DolbyVision", "HDR", "HDR10", "PLUS", "UNRATED", "LIMITED", "REMUX", "Season", "Pack", "FanSub", "SoftSub", "REMASTERED", "Reducted", "3D", "Part", "One", "Two", "Three", "Four", "Upscaled", "Upscale", "Regraded"]
+"allowed_always_tags" : ["EXTENDED","REPACK", "PROPER", "RERIP", "COMPLETE","DUAL", "AUDIO", "Subbed", "DIRECTORS", "CUT", "DC", "DV", "DolbyVision", "HDR", "HDR10", "PLUS", "UNRATED", "LIMITED", "REMUX", "Season", "Pack", "FanSub", "SoftSub", "REMASTERED", "Reducted", "3D", "Part", "One", "Two", "Three", "Four", "Upscaled", "Upscale", "Regraded"],
+"forbiddenVideoFormats" : ["rmvb"]
 }
