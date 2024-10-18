@@ -5,5 +5,5 @@
 "codec_types" : ["x264", "x265", "XviD", "DivX", "AVC", "AV1", "MPEG"],
 "audio_formats" : ["AAC", "AC3", "DTS", "FLAC", "MP3", "EAC3", "EAC", "Opus", "DD", "DDP", "PCM", "MPEG"],
 "allowed_always_tags" : ["EXTENDED","REPACK", "PROPER", "RERIP", "COMPLETE","DUAL", "AUDIO", "Subbed", "DIRECTORS", "CUT", "DC", "DV", "DolbyVision", "HDR", "HDR10", "PLUS", "UNRATED", "LIMITED", "REMUX", "Season", "Pack", "FanSub", "SoftSub", "REMASTERED", "Reducted", "3D", "Part", "One", "Two", "Three", "Four", "Upscaled", "Upscale", "Regraded"],
-"allowedVideoFormats" : ["mkv", "mp4", "m4v", "avi", "mpeg", "ts", "wav", "flv", "mpg", "mov", "wma", "m2ts", "mts"]
+"allowedVideoFormats" : ["mkv", "mp4", "m4v", "avi", "ts", "flv", "mpg", "m2ts"]
 }
