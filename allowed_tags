@@ -1,5 +1,5 @@
 { 
-"latest_version": "1.5.5",
+"latest_version": "1.5.4",
 "release_types" : ["WEB-DL", "WEBRip", "DVDRip", "DVD", "BluRay","BRrip", "BDRip", "HDTV", "TVRip", "BDREMUX", "VHSrip"],
 "platforms" : ["AMZN", "NF", "StarzPlay", "SP", "SHOFHA", "SHAHID", "CR", "UNext", "SGO", "AWAAN", "51KW", "WEYYAK", "VIU", "Arabeo", "Roya", "Aloula", "Mahatat", "HilalPlay", "HP", "Istikana", "Tabii", "TOOG", "ORBIT", "STCTV", "WATCHIT", "DSNP", "1001TV", "OSN", "BluTV", "TWIST", "DzairPlay", "NoorPlay", "NP","Maraya", "VIKI", "HiTV", "MTV", "IQIYI", "WETV", "FORJA", "WK", "FASELPLUS", "SHASHA", "ADTV", "TenTime", "ElShasha", "TOD", "Almanasa", "Zolal", "MySatGo", "SwitchTV", "WK", "AJ360", "YouTube", "Majid", "MajidTV", "Jeem", "JEEM", "ON", "NoP", "YANGO", "ElShaSha","Aflamuna", "Tabie", "NessmaPlay", "SBCTV", "ALARABY2", "ALARABY", "CN"],
 "additional_types" : ["EXTENDED","REPACK", "PROPER", "RERIP", "COMPLETE","DUAL", "AUDIO", "Subbed", "DIRECTORS", "CUT", "DC", "DV", "DolbyVision", "HDR", "HDR10", "PLUS", "UNRATED", "LIMITED", "REMUX", "Season", "Pack", "MultiSubs", "ArSub", "FanSub", "TeamSub","HardSub", "SoftSub", "REMASTERED", "Reducted", "Sub", "Subs", "Dub", "Dubs", "3D", "Part", "One", "Two", "Three", "Four", "MultiDubs", "Arabic", "ArSubs", "MultiAudios", "Upscaled", "Upscale", "Regraded"],
