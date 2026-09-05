@@ -12,8 +12,8 @@
 **ملاحظة: يجب ان يكون لديك صلاحيات رووت لتثبيت البرامج و المكتبات المطلوبة**
 
 ```
-unzip media_renamer.v1.6.2-Linux.zip
-cd media_renamer.v1.6.2-Linux
+unzip media_renamer.v1.6.5-Linux.zip
+cd media_renamer.v1.6.5-Linux
 chmod +x install.sh
 chmod +x media_renamer
 chmod +x nzbCheck
@@ -26,6 +26,8 @@ chmod +x nzbCheck
 **ملاحظة: يجب تشغيل البرنامج من داخل مجلده الخاص لتفادي المشاكل.**
 ## الوسوم المعتمدة
 سيقوم السكربت بإعتماد الوسوم الموجودة في ملف allowed_tags في عملية تفقد الأسم بعد إعادة تسمية الملفات.
+# طريقة التنصيب على تيرموكس (Termux)
+قريباً......
 # فيديو توضيحي
 https://github.com/user-attachments/assets/5c84bdb6-0672-4166-ba75-7872316ff9df
 ## شرح طريقة استخدام البرنامج:
