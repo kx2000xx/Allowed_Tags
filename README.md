@@ -12,8 +12,8 @@
 **ملاحظة: يجب ان يكون لديك صلاحيات رووت لتثبيت البرامج و المكتبات المطلوبة**
 
 ```
-unzip media_renamer.v1.6.5-Linux.zip
-cd media_renamer.v1.6.5-Linux
+unzip media_renamer.v1.6.6-Linux.zip
+cd media_renamer.v1.6.6-Linux
 chmod +x install.sh
 chmod +x media_renamer
 chmod +x nzbCheck
